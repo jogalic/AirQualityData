@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjektR.Server", "ProjektR.Server\ProjektR.Server.csproj", "{C8D3FBB8-84D7-42A2-B53C-75A315F1D14A}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "projektr.client", "projektr.client\projektr.client.esproj", "{BADFAF91-0244-41A5-9E7D-919BCC9FD261}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8D3FBB8-84D7-42A2-B53C-75A315F1D14A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8D3FBB8-84D7-42A2-B53C-75A315F1D14A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8D3FBB8-84D7-42A2-B53C-75A315F1D14A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8D3FBB8-84D7-42A2-B53C-75A315F1D14A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BADFAF91-0244-41A5-9E7D-919BCC9FD261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BADFAF91-0244-41A5-9E7D-919BCC9FD261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BADFAF91-0244-41A5-9E7D-919BCC9FD261}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BADFAF91-0244-41A5-9E7D-919BCC9FD261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BADFAF91-0244-41A5-9E7D-919BCC9FD261}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BADFAF91-0244-41A5-9E7D-919BCC9FD261}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE0718A5-1B5B-44AB-8438-24C54A2B6E57}
+	EndGlobalSection
+EndGlobal
